@@ -3,9 +3,10 @@
 
         <div class="section-title">
             <h2>Skills</h2>
-            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
-                consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat
-                sit in iste officiis commodi quidem hic quas.</p>
+            <p> I possess a diverse range of skills in software engineering and development,
+                backed by practical experience in various technologies.
+                <br> <br>
+                Here's a concise summary of my skills:</p>
         </div>
 
         <div class="row skills-content">
@@ -21,7 +22,7 @@
                 </div>
 
                 <div class="progress">
-                    <span class="skill">CSS <i class="val">90%</i></span>
+                    <span class="skill">CSS <i class="val">70%</i></span>
                     <div class="progress-bar-wrap">
                         <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
                              aria-valuemax="100"></div>
@@ -58,6 +59,31 @@
 
                 <div class="progress">
                     <span class="skill">Photoshop <i class="val">55%</i></span>
+                    <div class="progress-bar-wrap">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0"
+                             aria-valuemax="100"></div>
+                    </div>
+                </div>
+
+                <div class="progress">
+                    <span class="skill">Java <i class="val">80%</i></span>
+                    <div class="progress-bar-wrap">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0"
+                             aria-valuemax="100"></div>
+                    </div>
+                </div>
+
+                <div class="progress">
+                    <span class="skill">Java <i class="val">75%</i></span>
+                    <div class="progress-bar-wrap">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0"
+                             aria-valuemax="100"></div>
+                    </div>
+                </div>
+
+
+                <div class="progress">
+                    <span class="skill">Swift <i class="val">55%</i></span>
                     <div class="progress-bar-wrap">
                         <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0"
                              aria-valuemax="100"></div>

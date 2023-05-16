@@ -3,7 +3,7 @@
     <div class="d-flex flex-column">
 
         <div class="profile">
-            <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
+            <img src="assets/img/Passport Sized Photo (LI SHUFANG)_auto_x2.jpg" alt="" class="img-fluid rounded-circle">
             <h1 class="text-light"><a href="index.php">Thomas Li</a></h1>
             <div class="social-links mt-3 text-center">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
