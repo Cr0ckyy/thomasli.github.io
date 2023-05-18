@@ -1,10 +1,10 @@
 /**
-* Template Name: iPortfolio
-* Updated: Mar 10 2023 with Bootstrap v5.2.3
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+ * Template Name: MyResume
+ * Updated: Mar 10 2023 with Bootstrap v5.2.3
+ * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+ * Author: BootstrapMade.com
+ * License: https://bootstrapmade.com/license/
+ */
 (function() {
   "use strict";
 
@@ -119,22 +119,32 @@
    * Scroll with ofset on page load with hash links in the url
    */
   window.addEventListener('load', () => {
-    if (window.location.hash) {
-      if (select(window.location.hash)) {
-        scrollto(window.location.hash)
+      if (window.location.hash) {
+          if (select(window.location.hash)) {
+              scrollto(window.location.hash)
+          }
       }
-    }
   });
 
-  /**
-   * Hero type effect
-   */
-  const typed = select('.typed')
-  if (typed) {
-    let typed_strings = typed.getAttribute('data-typed-items')
-    typed_strings = typed_strings.split(',')
-    new Typed('.typed', {
-      strings: typed_strings,
+    /**
+     * Preloader
+     */
+    let preloader = select('#preloader');
+    if (preloader) {
+        window.addEventListener('load', () => {
+            preloader.remove()
+        });
+    }
+
+    /**
+     * Hero type effect
+     */
+    const typed = select('.typed')
+    if (typed) {
+        let typed_strings = typed.getAttribute('data-typed-items')
+        typed_strings = typed_strings.split(',')
+        new Typed('.typed', {
+            strings: typed_strings,
       loop: true,
       typeSpeed: 100,
       backSpeed: 50,
@@ -189,22 +199,31 @@
 
   });
 
-  /**
-   * Initiate portfolio lightbox 
-   */
-  const portfolioLightbox = GLightbox({
-    selector: '.portfolio-lightbox'
-  });
+    /**
+     * Initiate portfolio lightbox
+     */
+    const portfolioLightbox = GLightbox({
+        selector: '.portfolio-lightbox'
+    });
 
-  /**
-   * Portfolio details slider
-   */
-  new Swiper('.portfolio-details-slider', {
-    speed: 400,
-    loop: true,
-    autoplay: {
-      delay: 5000,
-      disableOnInteraction: false
+    /**
+     * Initiate portfolio details lightbox
+     */
+    const portfolioDetailsLightbox = GLightbox({
+        selector: '.portfolio-details-lightbox',
+        width: '90%',
+        height: '90vh'
+    });
+
+    /**
+     * Portfolio details slider
+     */
+    new Swiper('.portfolio-details-slider', {
+        speed: 400,
+        loop: true,
+        autoplay: {
+            delay: 5000,
+            disableOnInteraction: false
     },
     pagination: {
       el: '.swiper-pagination',
@@ -228,17 +247,6 @@
       el: '.swiper-pagination',
       type: 'bullets',
       clickable: true
-    },
-    breakpoints: {
-      320: {
-        slidesPerView: 1,
-        spaceBetween: 20
-      },
-
-      1200: {
-        slidesPerView: 3,
-        spaceBetween: 20
-      }
     }
   });
 
