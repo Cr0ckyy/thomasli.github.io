@@ -58,7 +58,7 @@
     <!-- End About Section -->
 
     <!-- ======= Facts Section ======= -->
-    <? php# include('components\facts.php'); ?>
+    <? # php include('components\facts.php'); ?>
     <!-- End Facts Section -->
 
     <!-- ======= Skills Section ======= -->
