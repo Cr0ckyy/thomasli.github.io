@@ -7,31 +7,33 @@
 
         <div class="row mt-1">
 
-            <div class="col-lg-4">
-                <div class="info">
-                    <div class="address">
-                        <i class="bi bi-geo-alt"></i>
-                        <h4>Location:</h4>
-                        <p>Singapore</p>
-                    </div>
+            <!--            <div class="col-lg-4">-->
+            <!--                <div class="info">-->
+            <!--                    <div class="address">-->
+            <!--                        <i class="bi bi-geo-alt"></i>-->
+            <!--                        <h4>Location:</h4>-->
+            <!--                        <p>Singapore</p>-->
+            <!--                    </div>-->
+            <!---->
+            <!--                    <div class="email">-->
+            <!--                        <i class="bi bi-envelope"></i>-->
+            <!--                        <h4>Email:</h4>-->
+            <!--                        <p>lishufang1121@gmail.com</p>-->
+            <!--                    </div>-->
+            <!---->
+            <!--                    <div class="phone">-->
+            <!--                        <i class="bi bi-phone"></i>-->
+            <!--                        <h4>Call:</h4>-->
+            <!--                        <p>+65 8170 1017</p>-->
+            <!--                    </div>-->
+            <!---->
+            <!--                </div>-->
+            <!---->
+            <!--            </div>-->
 
-                    <div class="email">
-                        <i class="bi bi-envelope"></i>
-                        <h4>Email:</h4>
-                        <p>lishufang1121@gmail.com</p>
-                    </div>
 
-                    <div class="phone">
-                        <i class="bi bi-phone"></i>
-                        <h4>Call:</h4>
-                        <p>+65 8170 1017</p>
-                    </div>
-
-                </div>
-
-            </div>
-
-            <div class="col-lg-8 mt-5 mt-lg-0">
+            <!--            <div class="col-lg-8 mt-5 mt-lg-0">-->
+            <div class="d-flex justify-content-center align-items-center">
 
                 <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                     <div class="row">

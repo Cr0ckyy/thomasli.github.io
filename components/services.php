@@ -13,7 +13,7 @@
                         <i class="bx bx-mobile"></i>
                     </div>
                     <h4><a href="">Mobile App Development</a></h4>
-                    <p>We create mobile applications for Android and iOS platforms using technologies such as Kotlin,
+                    <p>I create mobile applications for Android and iOS platforms using technologies such as Kotlin,
                         Swift, Java for Android, and Objective-C for iOS.</p>
                 </div>
             </div>
@@ -25,7 +25,7 @@
                         <i class="bx bx-globe"></i>
                     </div>
                     <h4><a href="">Web Development</a></h4>
-                    <p>We develop responsive and interactive websites using frameworks like React/React Native, Laravel,
+                    <p>I develop responsive and interactive websites using frameworks like React/React Native, Laravel,
                         Node.js, and Ionic.</p>
                 </div>
             </div>
@@ -34,10 +34,10 @@
                  data-aos-delay="300">
                 <div class="icon-box iconbox-pink">
                     <div class="icon">
-                        <i class="bx bx-database"></i>
+                        <i class="bx bx-server"></i>
                     </div>
                     <h4><a href="">Database Management</a></h4>
-                    <p>We design and implement efficient database solutions using SQL (Oracle, MySQL, MS SQL, SQLite)
+                    <p>I design and implement efficient database solutions using SQL (Oracle, MySQL, MS SQL, SQLite)
                         and NoSQL databases like MongoDB and Firebase.</p>
                 </div>
             </div>
@@ -48,7 +48,7 @@
                         <i class="bx bx-check-double"></i>
                     </div>
                     <h4><a href="">Quality Assurance and Testing</a></h4>
-                    <p>We ensure the quality of software through comprehensive testing methodologies, including unit
+                    <p>I ensure the quality of software through comprehensive testing methodologies, including unit
                         testing, integration testing, and end-to-end testing.</p>
                 </div>
             </div>
@@ -59,7 +59,7 @@
                         <i class="bx bx-wrench"></i>
                     </div>
                     <h4><a href="">Maintenance and Support</a></h4>
-                    <p>We provide ongoing support, bug fixes, and updates to ensure the smooth operation of software
+                    <p>I provide ongoing support, bug fixes, and updates to ensure the smooth operation of software
                         applications.</p>
                 </div>
             </div>
@@ -71,7 +71,7 @@
                     </div>
                     <h4
                     ><a href="">Documentation and Technical Writing</a></h4>
-                    <p>We create clear and concise technical documentation, user manuals, and API documentation to
+                    <p>I create clear and concise technical documentation, user manuals, and API documentation to
                         ensure proper understanding and usage of software applications.</p>
                 </div>
             </div>
