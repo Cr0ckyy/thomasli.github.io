@@ -1,4 +1,3 @@
-<section id="facts" class="facts">
     <div class="container" data-aos="fade-up">
 
         <div class="section-title">

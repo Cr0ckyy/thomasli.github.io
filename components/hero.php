@@ -8,7 +8,8 @@
             <!--            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>-->
             <!--            <a href="#" class="google-plus"><i class="bx bxl-zoom"></i></a>-->
             <!--            <a href="#" class="google-plus"><i class="bx bxl-microsoft-teams"></i></a>-->
-            <a href="https://www.linkedin.com/in/lishufang/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            <a href="https://github.com/Cr0ckyy" class="github"><i class="bx bxl-github"></i></a>
+            <a href="https://www.linkedin.com/in/thomas-li-sf/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
     </div>
 </section>

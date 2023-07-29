@@ -10,7 +10,7 @@
 
         <div class="row">
             <div class="col-lg-4">
-                <img src="assets/img/Passport Sized Photo_auto_x2.jpg" class="img-fluid" alt="">
+                <img src="assets/img/mugshot.png" class="img-fluid" alt="">
             </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content">
                 <h3>Software Developer &amp; UI/UX Designer.</h3>
@@ -23,12 +23,12 @@
                         <ul>
                             <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong>
                                 <span>11 November 1999</span></li>
-                            <!--                            <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong>-->
-                            <!--                                <span>www.example.com</span></li>-->
-                            <!--                            <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong>-->
-                            <!--                                <span>+65 8170 1017</span></li>-->
                             <li><i class="bi bi-chevron-right"></i> <strong>City:</strong>
                                 <span>Singapore</span></li>
+                            <li><i class="bi bi-chevron-right"></i> <strong>Full-time/Contract offer:</strong>
+                                <span>Available</span></li>
+
+
                         </ul>
                     </div>
                     <div class="col-lg-6">
@@ -43,9 +43,7 @@
                                 </span></li>
                             <li><i class="bi bi-chevron-right"></i> <strong>Academic Qualification:</strong> <span>Diploma</span>
                             </li>
-                            <!--                            <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong>-->
-                            <!--                                <span>email@example.com</span>-->
-                            <!--                            </li>-->
+
                             <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong>
                                 <span>Available</span></li>
                         </ul>
