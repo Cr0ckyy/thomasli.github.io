@@ -2,7 +2,7 @@
     <div class="container" data-aos="fade-up">
         <div class="section-title">
             <h2>Services</h2>
-            <p>We offer a range of services to meet your software development needs. Our expertise includes:</p>
+            <p>I offer a range of services to meet your software development needs. My expertise includes:</p>
         </div>
 
         <div class="row">
